@@ -1,0 +1,14 @@
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\bin\Debug\netcoreapp2.0\RobotApp.deps.json
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\bin\Debug\netcoreapp2.0\RobotApp.runtimeconfig.json
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\bin\Debug\netcoreapp2.0\RobotApp.runtimeconfig.dev.json
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\bin\Debug\netcoreapp2.0\RobotApp.dll
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\bin\Debug\netcoreapp2.0\RobotApp.pdb
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\obj\Debug\netcoreapp2.0\RobotApp.csprojResolveAssemblyReference.cache
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\obj\Debug\netcoreapp2.0\RobotApp.csproj.CoreCompileInputs.cache
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\obj\Debug\netcoreapp2.0\RobotApp.AssemblyInfoInputs.cache
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\obj\Debug\netcoreapp2.0\RobotApp.AssemblyInfo.cs
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\obj\Debug\netcoreapp2.0\RobotApp.dll
+c:\users\nkosinathi.khumalo\source\repos\RobotApp\RobotApp\obj\Debug\netcoreapp2.0\RobotApp.pdb
